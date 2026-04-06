@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate AI Engineer, Data Scientist, and Full Stack Web Developer, currently studying Computer Science with a focus on Data Science and AI. I love building intelligent and scalable solutions, exploring new technologies, and solving real-world problems with data and AI.
+I am an AI & ML Engineer, Data Scientist, and Full Stack Web Developer, currently studying Computer Science with a focus on Data Science and AI. I love building intelligent and scalable solutions, exploring new technologies, and solving real-world problems with data and AI.
 
 
 ## 🌐 Socials:
