@@ -17,4 +17,4 @@ Docker · PyTorch · LangGraph · C++
 System design · Rust · OS internals · LeetCode (the grind is real)
 
 ## Reach me
-[LinkedIn]([your-link](https://www.linkedin.com/in/ivan-komi-25397028a)) · mikomi@etu.uqac.ca
+[LinkedIn](https://www.linkedin.com/in/ivan-komi-25397028a) · mikomi@etu.uqac.ca
