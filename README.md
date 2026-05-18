@@ -5,8 +5,8 @@ Code that runs. Models that reason.
 SWE & AI Engineer building production-ready systems at the intersection
 of LLMs, multi-agent architectures, and full-stack engineering.
 
-Currently engineering an aircraft maintenance AI co-pilot at Humanitas Solutions
-— LangGraph, RAG pipelines, FastAPI, React — under Pr. Foutse Khomh at
+Currently engineering an aircraft maintenance AI co-pilot at Humanitas Solutions,
+LangGraph, RAG pipelines, FastAPI, React, under Pr. Foutse Khomh at
 Polytechnique Montréal.
 
 ## What I work with
