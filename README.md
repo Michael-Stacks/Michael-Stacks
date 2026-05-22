@@ -9,7 +9,7 @@ Currently at Humanitas Solutions (Polytechnique Montréal), engineering
 an aircraft maintenance AI co-pilot with LangGraph, RAG pipelines, FastAPI and React.
 
 ## What I work with
-Python · FastAPI · React · TypeScript · Node.js · PostgreSQL · MongoDB
+Python · FastAPI · React · TypeScript · Node.js · PostgreSQL · MongoDB  
 Docker · PyTorch · LangGraph · C++
 
 ## Currently learning
