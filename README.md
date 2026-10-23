@@ -12,7 +12,7 @@ Python · FastAPI · React · TypeScript · Node.js · PostgreSQL · MongoDB
 Docker · PyTorch · LangGraph · C++
 
 ## Currently learning
-System design · Rust · OS internals · LeetCode (the grind is real)
+System design · OS internals · LeetCode (the grind is real)
 
 ## Reach me
 [LinkedIn](https://www.linkedin.com/in/ivan-komi-25397028a) · mikomi@etu.uqac.ca
